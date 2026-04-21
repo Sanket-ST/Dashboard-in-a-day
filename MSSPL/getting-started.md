@@ -52,13 +52,13 @@ Your virtual machine is your workhorse throughout the workshop. The lab guide is
  
 To get a better understanding of your lab resources and credentials, navigate to the **Environment** tab.
 
-   ![image](../Images/power-02new.png)
+   ![image](../Images/env.png)
 
 ## Utilizing the Split Window Feature
  
 For convenience, you can open the lab guide in a separate window by selecting the **Split Window** button from the Top right corner.
 
-   ![image](../Images/power-03new.png)
+   ![image](../Images/split.png)
    
 ## Managing Your Virtual Machine
 
@@ -84,11 +84,11 @@ To adjust the zoom level for the environment page, click the **A↕ : 100%** ico
  
    - **Email/Username:** <inject key="AzureAdUserEmail"></inject>
  
-     ![image](https://github.com/user-attachments/assets/f38ad1be-223e-4973-907b-d1e3c4af5e5a)
+     ![image](../Images/GSlogin.png)
 
 3. Now enter the following temporary access password and click on **Sign in**.
  
-   - **Password:** <inject key="AzureAdUserPassword"></inject>
+   - **Temporary Access Pass:** <inject key="AzureAdUserPassword"></inject>
  
      ![image](../Images/GS3.png)
      
@@ -118,19 +118,19 @@ To adjust the zoom level for the environment page, click the **A↕ : 100%** ico
 
 1. Once the "Enter your email address" dialog appears, copy the **Username** and paste it into the **Email** field of the dialog and select **Continue**.
 
-   * Email/Username: <inject key="AzureAdUserEmail"></inject>
+   * **Email/Username**: <inject key="AzureAdUserEmail"></inject>
 
      ![02](../Images/image106.png)
 
 1. After clicking Continue, you will be prompted to sign in again. Please use the credentials provided below to log in.
 
-   * Email/Username: <inject key="AzureAdUserEmail"></inject>
+   * **Email/Username**: <inject key="AzureAdUserEmail"></inject>
 
      ![02](../Images/image101.png)
 
 1. Enter the temporary access password and **Sign in**
 
-   - **Password:** <inject key="AzureAdUserPassword"></inject>
+   - **Temporary Access Pass:** <inject key="AzureAdUserPassword"></inject>
 
      ![02](../Images/GS3.png)
 
