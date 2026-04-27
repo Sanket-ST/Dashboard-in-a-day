@@ -146,6 +146,14 @@ In this task, you will open a Power BI report, enable map visuals, adjust the mo
 
     > **Note:** If the reports are not visible, please refresh the page.
 
+> **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
+>
+> - If you receive a success message, you can proceed to the next task.
+> - If not, carefully read the error message and retry the step, following the instructions in the lab guide.
+> - If you need any assistance, please contact us at cloudlabs-support@spektrasystems.com. We are available 24/7 to help you out.
+
+<validation step="30855dc5-d65e-4b44-a618-7a82e83da605" />
+
 ## Task 2: Power BI – Building a Dashboard
 
 In this task, you will create a dashboard that combines data from the **Market Share** report.  
@@ -261,6 +269,14 @@ By the end of this section, you will have created a dashboard that looks like th
    ![](../Images/powerbinew_task2_step23(2).png)    
 
     >**Note:** You will see the visuals on the dashboard like in the screenshot. Each visual on the dashboard is called a tile. The tiles represent the data chosen and are kept up to date as the data in the data model updates. Tiles are not interactive.
+
+> **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
+>
+> - If you receive a success message, you can proceed to the next task.
+> - If not, carefully read the error message and retry the step, following the instructions in the lab guide.
+> - If you need any assistance, please contact us at cloudlabs-support@spektrasystems.com. We are available 24/7 to help you out.
+
+<validation step="5f6fd03e-f355-47b5-a327-bb0199fe5217" />
 
 ## Task 3: Organize dashboard
 
