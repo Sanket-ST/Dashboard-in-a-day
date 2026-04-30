@@ -114,6 +114,24 @@ In this task, you will open a Power BI report, enable map visuals, adjust the mo
 
    > **Note** If it asks about licence select **Try Free**.
 
+1. Once the **DIAD_<inject key="DeploymentID" enableCopy="false"/>** is created, navigate to **Manage Access (1)**.
+
+    ![](./Images/manageaccess.png)
+
+1. On the **Manage Access** window, click on **+Add people or groups (1)**.
+
+    ![](../Images/add.png)
+
+1. On the **+Add people or groups** window, search with `https://cloudlabs-v2.ai/` service principle and select it.
+
+1. In the Add people pane once selecting the service principle **(1)**, select the appropriate role from **Admin (2)**, and then click **Add (3)**. Make sure that is listed on the **Manage access** window.
+
+     ![](../Images/admin.png)
+
+1. On the **Manage Access** page, you should see that your account and service principle is listed as an **Admin**.
+
+    ![](../Images/E1T1S21.png)
+
 1. Let’s publish the report to the Power BI Service, then return to the browser . First, open the **DIAD Final Report** in Power BI Desktop.
 
 1. Ensure **Mobile layout** is **turned off** by deselecting the **Mobile layout** option in the View tab.
